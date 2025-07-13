@@ -4,7 +4,7 @@
 
 You're joining a research project titled:
 
-> **"Predicting Coma Recovery Using Autoencoder and Clustering Approaches"**
+> **"Predicting Coma Recovery Using EEG features"**
 
 The goal of this study is to predict neurological recovery in comatose ICU patients following cardiac arrest using EEG (electroencephalogram) signals. By leveraging over 1,000 patients and nearly 60,000 hours of EEG data, we aim to build predictive models that identify outcome-relevant EEG dynamics early and stably, aiding clinical decisions in real time.
 
