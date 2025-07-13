@@ -1,4 +1,4 @@
-## Predicting Coma Recovery Using Autoencoder and Clustering Approaches
+## Predicting Coma Recovery
 
 ### 🧠 Project Overview (For Lauren)
 
